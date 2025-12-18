@@ -1,0 +1,2 @@
+The model used in this project is DeepSeek-V3.2, an advanced open-source large language model designed for efficient reasoning and long-context understanding. 
+The model is accessed from Hugging Face and integrated into the application using LangChain, enabling seamless interaction through an endpoint-based architecture for real-time conversational responses.
